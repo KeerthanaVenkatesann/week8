@@ -1,0 +1,218 @@
+*{padding: 0%;
+margin: 0%;
+font-family:"Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.navbar{background-color:#484b4e ;
+display: flex;
+justify-content: space-between;
+height: 55px;
+position: fixed;
+width: 100%;
+
+
+}
+.first_div{display: flex;
+
+color: white;
+padding: 13px 15px 13px 15px;
+}
+
+.second_div{padding: 9px 15px 14px 15px;
+    
+
+
+}
+.car{padding-right: 20px;
+    font-size: large;
+}
+
+
+
+.Home{padding-right: 20px;
+font-size: large;
+
+}
+
+
+
+.lin{padding-right: 20px;
+color: rgb(208, 206, 206);}
+
+
+.dis{color: rgb(136, 133, 133);}
+
+.search1{height:39px ;
+border-radius: 5px;
+font-size: 1rem;}
+
+
+.search2{height:39px;
+    margin-left: 5px;
+    padding: 0px 20px ;
+    background-color: #484b4e;
+    border: 2px solid green;
+    border-radius: 5px;
+    
+}
+.fatag{text-decoration: none;
+color: green;
+font-size: 1rem;
+}
+
+
+.body_container1{background-color:rgb(116, 115, 115);
+
+width: 100%;
+height: 490px;
+
+
+
+}
+
+.containerh11{color: white;
+font-size: 2.8rem;
+font-weight: 600;
+padding-top: 200px;
+padding-left: 180px;}
+
+.containerp1{color: rgb(222, 222, 222);
+padding-left: 180px;
+font-size: x-large;
+font-weight: 502;
+padding-top: 10px;
+}
+
+.container_button{margin-left: 180px;
+    margin-top: 20px;
+    background-color: rgb(19, 135, 181);
+    border: 2px solid   rgb(9, 127, 174) ;
+    padding: 7px 10px 7px 10px;
+    border-radius: 5px;
+
+}
+.fatag_contain{text-decoration: none;
+    font-weight: 500;
+color: white;}
+
+
+.body_container_2{display: flex;
+justify-content: space-around;
+padding-left: 100px;
+padding-right: 90px;}
+
+.con{padding-top: 70px;
+    text-align: center;
+width: 350px;
+margin-right: 10px;
+}
+
+
+.div1-round{background-color:rgb(116, 115, 115);
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin-left: 98px;}
+
+
+
+.divhead{color:rgb(106, 105, 105) ;
+
+font-weight:500;
+
+
+}
+
+.roundp{color:rgb(106, 105, 105) ;
+font-size: larger;
+text-align: center;
+
+padding-top: 7px;
+
+
+}
+
+
+.round_button1{margin-top: 15px;
+background-color: rgb(106, 105, 105);
+font-size: large;
+color: white;
+border-radius: 5px;
+
+padding: 6px 9px 6px 9px;}
+
+.body_container_3{display: flex;
+    padding:30px 140px 30px 140px;
+margin-top: 100px;}
+
+.mainbox1{width:900px;
+margin-right: 50px;
+
+}
+
+.mainbox2{width: 600px;
+margin-left: 10px;
+padding: 50px;}
+
+.mind1{font-size: 2.8rem;
+
+color: rgb(66, 65, 65);
+margin-top: 150px;
+
+font-weight: 500;
+}
+
+
+#span1{color:rgb(106, 105, 105) ;}
+.mind2{color:rgb(106, 105, 105) ;
+font-size: larger;
+padding-top: 20px;}
+
+
+.five_100{width: 500px;
+height: 500px;
+background-color:rgb(214, 210, 210) ;
+font-size: xx-large;
+}
+
+.intext{padding-top: 220px;
+padding-left: 190px;
+color:rgb(137, 133, 133) ;
+font-weight:bold;
+font-stretch: ultra-condensed;}
+
+
+
+.body_container_4{display: flex;
+    padding:30px 140px 30px 140px;
+margin-top: 100px;}
+
+.mainbox1{width:900px;
+margin-right: 50px;
+
+}
+
+.body_container_5{display: flex;
+    padding:30px 140px 30px 140px;
+margin-top: 100px;}
+
+.footer{display: flex;
+justify-content: space-between;
+padding: 50px 50px 30px 50px;}
+
+.lastdiv{color:rgb(92, 90, 90) ;
+}
+
+.lastfoot{display: flex;
+padding-left: 30px;}
+
+
+
+.listlast{list-style-type: none;}
+
+
+.lastA{text-decoration: none;
+padding-left: 13px;
+color: rgb(20, 136, 182);}
+
+.last1{padding-right: 30px;}
